@@ -42,7 +42,7 @@ A Model Context Protocol (MCP) server that provides AI assistants with comprehen
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/civitai-mcp-server.git
+git clone https://github.com/Cicatriiz/civitai-mcp-server.git
 cd civitai-mcp-server
 ```
 
@@ -303,8 +303,8 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/civitai-mcp-server/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/civitai-mcp-server/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Cicatriiz/civitai-mcp-server/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/Cicatriiz/civitai-mcp-server/discussions)
 - 📚 **Documentation**: [Civitai API Reference](https://github.com/civitai/civitai/wiki/REST-API-Reference)
 - 🔧 **MCP Documentation**: [Model Context Protocol](https://modelcontextprotocol.io/)
 
