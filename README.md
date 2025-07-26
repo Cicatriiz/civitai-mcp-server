@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides AI assistants with comprehensive access to Civitai's vast collection of AI models, creators, and generated content. Browse, search, and discover AI models seamlessly through your favorite MCP-compatible AI assistant.
 
+<a href="https://glama.ai/mcp/servers/@Cicatriiz/civitai-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Cicatriiz/civitai-mcp-server/badge" alt="Civitai Server MCP server" />
+</a>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
