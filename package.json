@@ -1,0 +1,35 @@
+{
+  "name": "civitai-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for interacting with the Civitai API - browse AI models, images, creators, and more",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "mcp",
+    "civitai",
+    "ai",
+    "models",
+    "api",
+    "server"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "node-fetch": "^3.3.2",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
