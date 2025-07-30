@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cicatriiz-civitai-mcp-server-badge.png)](https://mseep.ai/app/cicatriiz-civitai-mcp-server)
+
 # Civitai MCP Server
 
 A Model Context Protocol (MCP) server that provides AI assistants with comprehensive access to Civitai's vast collection of AI models, creators, and generated content. Browse, search, and discover AI models seamlessly through your favorite MCP-compatible AI assistant.
